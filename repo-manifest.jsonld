@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/optax/commit/85d06ce267b027d61e3a1421ee7ba0bb0c6c145b",
       "git:hexsha": "85d06ce267b027d61e3a1421ee7ba0bb0c6c145b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/google-deepmind/optax/commit/8d405b933c7334dc48cd08303886627db017b003",
